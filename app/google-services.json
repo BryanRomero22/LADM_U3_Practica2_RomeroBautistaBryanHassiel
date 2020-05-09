@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661698793085",
+    "firebase_url": "https://performance-a2c58.firebaseio.com",
+    "project_id": "performance-a2c58",
+    "storage_bucket": "performance-a2c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661698793085:android:ae0269f8a8331c05712b14",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u3_practica2_romerobautistabryanhassiel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661698793085-85farkka3s4k70phgn56j58tvi5usi3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ladm_u3_practica2_romerobautistabryanhassiel",
+            "certificate_hash": "2a338149a19328f9f47a47453413b282be7525ce"
+          }
+        },
+        {
+          "client_id": "661698793085-dbcqtn7oi8e7erj1vqagugsg6in2rbrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPor5lkLu6oGb2JE5fz5VQ3afaF-Uki_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661698793085-dbcqtn7oi8e7erj1vqagugsg6in2rbrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
